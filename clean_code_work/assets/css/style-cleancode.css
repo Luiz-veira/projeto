@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #43D8DE;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+    width: 90VW;
+    height: 5em;
+}
+
+.livro{
+    height: 9em;
+}
